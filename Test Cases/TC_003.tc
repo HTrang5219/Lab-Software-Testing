@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login fail with user and password wrong</description>
+   <name>TC_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b482b8e0-cf85-4e13-86c9-70a59cc6a7ed</testCaseGuid>
+</TestCaseEntity>
