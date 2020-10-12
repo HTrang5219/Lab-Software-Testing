@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CUR
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service        We Care _b17f12'))
+WebUI.click(findTestObject('Page_CURA Healthcare Service/Spy header'))
 
 WebUI.closeBrowser()
 
